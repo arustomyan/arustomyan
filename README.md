@@ -18,5 +18,5 @@ Welcome to my GitHub portfolio! I am a **Frontend Developer** with over **3 year
 Feel free to reach out for any collaboration or questions!
 
 - **Email**: [v.arustomyan@icloud.com]
+- **TG**: [https://t.me/arustomyan](https://t.me/arustomyan)
 - **LinkedIn**: [https://www.linkedin.com/in/arustomyan/](https://www.linkedin.com/in/arustomyan/)
-"""
