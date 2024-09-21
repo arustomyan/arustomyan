@@ -1,4 +1,4 @@
-54# Frontend Developer Portfolio
+# Frontend Developer
 
 Welcome to my GitHub portfolio! I am a **Frontend Developer** with over **3 years of experience** in building responsive, dynamic web applications and interfaces using modern web technologies like **React**, **Redux**, and **WebSocket**. Below, you’ll find details of my key skills and contributions.
 
