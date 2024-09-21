@@ -11,6 +11,7 @@ Welcome to my GitHub portfolio! I am a **Frontend Developer** with over **3 year
 
 ## 📊 **Coding Activity**:
 
+![WakaTime Stats](https://wakatime.com/badge/user/a8327c0d-2afb-4962-b1c9-580e042929b9.svg)
 ![WakaTime Stats](https://wakatime.com/share/@arustomyan/529a176f-777d-4144-97f4-9efa1a47c1ac.svg)
 
 ## 📫 **Contact**:
