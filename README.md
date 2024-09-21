@@ -1,4 +1,4 @@
-# Frontend Developer Portfolio
+54# Frontend Developer Portfolio
 
 Welcome to my GitHub portfolio! I am a **Frontend Developer** with over **3 years of experience** in building responsive, dynamic web applications and interfaces using modern web technologies like **React**, **Redux**, and **WebSocket**. Below, you’ll find details of my key skills and contributions.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I am a **Frontend Developer** with over **3 year
 
 ## 📊 **Coding Activity**:
 
-![WakaTime Stats](https://wakatime.com/share/@arustomyan/1f6debd9-d9da-4a8d-9b17-5db00146cff5.svg)
+![WakaTime Stats](https://wakatime.com/share/@arustomyan/529a176f-777d-4144-97f4-9efa1a47c1ac.svg)
 
 ## 📫 **Contact**:
 Feel free to reach out for any collaboration or questions!
