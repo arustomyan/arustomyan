@@ -1,16 +1,21 @@
-## Hi there 👋
+# Frontend Developer Portfolio
 
-<!--
-**arustomyan/arustomyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I am a **Frontend Developer** with over **3 years of experience** in building responsive, dynamic web applications and interfaces using modern web technologies like **React**, **Redux**, and **WebSocket**. Below, you’ll find details of my key skills and contributions.
 
-Here are some ideas to get you started:
+## 🛠️ **Technologies & Tools**:
+- **Languages**: HTML, CSS, JavaScript (ES6+)
+- **Frameworks & Libraries**: React, Redux, Zustand
+- **Real-time applications**: WebSocket for live updates and data synchronization
+- **UI Development**: Adaptive and responsive design with Figma-based layouts
+- **Version Control**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 **Coding Activity**:
+
+![WakaTime Stats](https://wakatime.com/share/@arustomyan/1f6debd9-d9da-4a8d-9b17-5db00146cff5.svg)
+
+## 📫 **Contact**:
+Feel free to reach out for any collaboration or questions!
+
+- **Email**: [v.arustomyan@icloud.com]
+- **LinkedIn**: [https://www.linkedin.com/in/arustomyan/](https://www.linkedin.com/in/arustomyan/)
+"""
